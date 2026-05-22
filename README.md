@@ -15,6 +15,7 @@ My technical foundation spans platform engineering, full-stack development, and 
 ## Experience
 
 ### Director of Engineering, R&D
+**One Inc**
 **Apr 2022 – Present · 4 yrs 2 mos**
 *California, United States · Remote*
 
@@ -34,6 +35,7 @@ Direct a global engineering organization driving enterprise platforms, intellige
 ---
 
 ### Site Reliability Engineer (Co-Founder)
+**One Inc**
 **Mar 2019 – Mar 2022 · 3 yrs 1 mo**
 *Folsom, California, United States · Hybrid*
 
@@ -51,6 +53,7 @@ Co-founded the company's dedicated Site Reliability Engineering (SRE) practice t
 ---
 
 ### Staff Software Engineer
+**One Inc**
 **Apr 2018 – Mar 2022 · 4 yrs**
 *Folsom, California, United States · On-site*
 
@@ -68,6 +71,7 @@ Executed a strategic international relocation to the United States, transitionin
 ---
 
 ### Senior Software Developer Team Lead
+**One Inc**
 **Jul 2016 – Apr 2018 · 1 yr 10 mos**
 *Novosibirsk, Russia · On-site*
 
@@ -84,6 +88,7 @@ Led a development team through all phases of the software development lifecycle,
 ---
 
 ### VP of Engineering, Innovative Developments
+**Data East, LLC**
 **Sep 2013 – Jun 2016 · 2 yrs 10 mos**
 *Novosibirsk, Russia*
 
@@ -100,6 +105,7 @@ Planned, led, and oversaw multiple projects at Data East LLC, managed department
 ---
 
 ### Software Engineering Manager
+**Data East, LLC**
 **Jun 2011 – Sep 2013 · 2 yrs 4 mos**
 *Novosibirsk, Russia*
 
@@ -116,6 +122,7 @@ Responsible for communicating with customers, planning and analyzing project tar
 ---
 
 ### Senior Software Engineer
+**Data East, LLC**
 **Sep 2008 – Sep 2013 · 5 yrs 1 mo**
 
 Responsible for planning and analyzing project objectives, organizing and managing work through task distribution, ensuring quality control, developing and improving design and UX, preventing and resolving problems, communicating with customers, and tracking work status.
