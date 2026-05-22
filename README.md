@@ -16,7 +16,7 @@ My technical foundation spans platform engineering, full-stack development, and 
 
 ### Director of Engineering, R&D
 **One Inc**
-**Apr 2022 – Present · 4 yrs 2 mos**
+**Apr 2022 – Present**
 *California, United States · Remote*
 
 Direct a global engineering organization driving enterprise platforms, intelligent automation, and applied AI initiatives. Orchestrate technical strategy, architecture, and organizational design to accelerate business productivity. Operate at the intersection of enterprise execution and rapid AI innovation, championing a high-velocity R&D paradigm—from RAD to SOL execution—that outperforms traditional SAFe SDLC frameworks when delivering mission-critical components under tight schedules.
